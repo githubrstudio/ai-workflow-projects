@@ -1,0 +1,4 @@
+Synthetic spec: Funds Transfer (invented for demonstration)
+REQ-001: The system shall reject transfers above 10000 USD per day.
+REQ-002: The system shall send a confirmation email within 60 seconds of a completed transfer.
+REQ-003: The system shall only allow account owners to initiate transfers.

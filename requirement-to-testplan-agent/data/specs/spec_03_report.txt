@@ -1,0 +1,5 @@
+Synthetic spec: Monthly Report (invented for demonstration)
+REQ-001: The system shall generate the monthly report as a PDF.
+REQ-002: The report shall be easy to read and use appropriate formatting.
+REQ-003: The system shall retain generated reports for 24 months.
+REQ-004: The system shall be secure.

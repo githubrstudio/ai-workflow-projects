@@ -1,0 +1,90 @@
+{"stage": "extract", "n": 3, "run_id": "spec_01_login-v1-43611", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 3, "run_id": "spec_01_login-v1-43611", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_01_login-v1-43611", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-003", "issue": "No measurable acceptance criteria"}], "run_id": "spec_01_login-v1-43611", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["1 requirement gap(s) flagged"], "run_id": "spec_01_login-v1-43611", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 3, "run_id": "spec_02_transfer-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 3, "run_id": "spec_02_transfer-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_02_transfer-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_02_transfer-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_02_transfer-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 4, "run_id": "spec_03_report-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 4, "run_id": "spec_03_report-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_03_report-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-002", "issue": "No measurable acceptance criteria"}, {"req_id": "REQ-004", "issue": "No measurable acceptance criteria"}], "run_id": "spec_03_report-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["2 requirement gap(s) flagged"], "run_id": "spec_03_report-v1-43612", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 2, "run_id": "spec_04_clean-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 2, "run_id": "spec_04_clean-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_04_clean-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_04_clean-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_04_clean-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 0, "run_id": "spec_05_empty-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 0, "run_id": "spec_05_empty-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_05_empty-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_05_empty-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["no requirements found"], "run_id": "spec_05_empty-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 2, "run_id": "spec_06_vague_number-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 2, "run_id": "spec_06_vague_number-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_06_vague_number-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_06_vague_number-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_06_vague_number-v1-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 3, "run_id": "spec_01_login-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 5, "run_id": "spec_01_login-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_01_login-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-003", "issue": "Vague wording: quickly"}], "run_id": "spec_01_login-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["1 requirement gap(s) flagged"], "run_id": "spec_01_login-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 3, "run_id": "spec_02_transfer-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 7, "run_id": "spec_02_transfer-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_02_transfer-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_02_transfer-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_02_transfer-v2-43613", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 4, "run_id": "spec_03_report-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 5, "run_id": "spec_03_report-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_03_report-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-002", "issue": "Vague wording: easy, appropriate"}, {"req_id": "REQ-004", "issue": "Vague wording: secure"}], "run_id": "spec_03_report-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["2 requirement gap(s) flagged"], "run_id": "spec_03_report-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 2, "run_id": "spec_04_clean-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 5, "run_id": "spec_04_clean-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_04_clean-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_04_clean-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_04_clean-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 0, "run_id": "spec_05_empty-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 0, "run_id": "spec_05_empty-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_05_empty-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_05_empty-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["no requirements found"], "run_id": "spec_05_empty-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 2, "run_id": "spec_06_vague_number-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 4, "run_id": "spec_06_vague_number-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_06_vague_number-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-001", "issue": "Vague wording: reasonable"}], "run_id": "spec_06_vague_number-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["1 requirement gap(s) flagged"], "run_id": "spec_06_vague_number-v2-43614", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 3, "run_id": "spec_01_login-v2-43649", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 5, "run_id": "spec_01_login-v2-43649", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_01_login-v2-43649", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-003", "issue": "Vague wording: quickly"}], "run_id": "spec_01_login-v2-43649", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["1 requirement gap(s) flagged"], "run_id": "spec_01_login-v2-43649", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 3, "run_id": "spec_02_transfer-v2-43683", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 7, "run_id": "spec_02_transfer-v2-43683", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_02_transfer-v2-43683", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_02_transfer-v2-43683", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_02_transfer-v2-43683", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 4, "run_id": "spec_03_report-v2-43715", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 5, "run_id": "spec_03_report-v2-43715", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_03_report-v2-43715", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-002", "issue": "Vague wording: easy, appropriate"}, {"req_id": "REQ-004", "issue": "Vague wording: secure"}], "run_id": "spec_03_report-v2-43715", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["2 requirement gap(s) flagged"], "run_id": "spec_03_report-v2-43715", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 2, "run_id": "spec_04_clean-v2-43749", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 5, "run_id": "spec_04_clean-v2-43749", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_04_clean-v2-43749", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_04_clean-v2-43749", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "auto_approve", "reasons": [], "run_id": "spec_04_clean-v2-43749", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 0, "run_id": "spec_05_empty-v2-43783", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 0, "run_id": "spec_05_empty-v2-43783", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_05_empty-v2-43783", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [], "run_id": "spec_05_empty-v2-43783", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["no requirements found"], "run_id": "spec_05_empty-v2-43783", "ts": "2026-10-30T10:17:23"}
+{"stage": "extract", "n": 2, "run_id": "spec_06_vague_number-v2-43817", "ts": "2026-10-30T10:17:23"}
+{"stage": "generate", "n": 4, "run_id": "spec_06_vague_number-v2-43817", "ts": "2026-10-30T10:17:23"}
+{"stage": "coverage", "uncovered": [], "schema_ok": true, "run_id": "spec_06_vague_number-v2-43817", "ts": "2026-10-30T10:17:23"}
+{"stage": "gaps", "gaps": [{"req_id": "REQ-001", "issue": "Vague wording: reasonable"}], "run_id": "spec_06_vague_number-v2-43817", "ts": "2026-10-30T10:17:23"}
+{"stage": "route", "route": "human_review", "reasons": ["1 requirement gap(s) flagged"], "run_id": "spec_06_vague_number-v2-43817", "ts": "2026-10-30T10:17:23"}

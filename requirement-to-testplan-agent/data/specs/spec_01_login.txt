@@ -1,0 +1,5 @@
+Synthetic spec: Login Portal (invented for demonstration)
+REQ-001: The system shall lock an account after 5 failed login attempts.
+REQ-002: The system shall display an error message when the password is incorrect.
+REQ-003: The system shall respond to login requests quickly.
+Note: Marketing wants a modern look.
