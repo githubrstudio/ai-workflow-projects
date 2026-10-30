@@ -1,0 +1,146 @@
+[
+  {
+    "version": "v1",
+    "mode": "mock",
+    "extraction_acc": 1.0,
+    "gap_precision": 1.0,
+    "gap_recall": 0.75,
+    "routing_acc": 0.8333333333333334,
+    "schema_valid": 1.0,
+    "total_cases": 14,
+    "detail": [
+      {
+        "spec": "spec_01_login.txt",
+        "extract_ok": true,
+        "gap_tp": 1,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 3
+      },
+      {
+        "spec": "spec_02_transfer.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 3
+      },
+      {
+        "spec": "spec_03_report.txt",
+        "extract_ok": true,
+        "gap_tp": 2,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 4
+      },
+      {
+        "spec": "spec_04_clean.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 2
+      },
+      {
+        "spec": "spec_05_empty.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 0
+      },
+      {
+        "spec": "spec_06_vague_number.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 1,
+        "route_ok": false,
+        "schema_ok": true,
+        "cases": 2
+      }
+    ]
+  },
+  {
+    "version": "v2",
+    "mode": "mock",
+    "extraction_acc": 1.0,
+    "gap_precision": 1.0,
+    "gap_recall": 1.0,
+    "routing_acc": 1.0,
+    "schema_valid": 1.0,
+    "total_cases": 26,
+    "detail": [
+      {
+        "spec": "spec_01_login.txt",
+        "extract_ok": true,
+        "gap_tp": 1,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 5
+      },
+      {
+        "spec": "spec_02_transfer.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 7
+      },
+      {
+        "spec": "spec_03_report.txt",
+        "extract_ok": true,
+        "gap_tp": 2,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 5
+      },
+      {
+        "spec": "spec_04_clean.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 5
+      },
+      {
+        "spec": "spec_05_empty.txt",
+        "extract_ok": true,
+        "gap_tp": 0,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 0
+      },
+      {
+        "spec": "spec_06_vague_number.txt",
+        "extract_ok": true,
+        "gap_tp": 1,
+        "gap_fp": 0,
+        "gap_fn": 0,
+        "route_ok": true,
+        "schema_ok": true,
+        "cases": 4
+      }
+    ]
+  }
+]

@@ -1,0 +1,3 @@
+Synthetic spec: Payment Processing (invented for demonstration)
+REQ-001: The system shall process payments in a reasonable time of 3 seconds.
+REQ-002: The system shall reject payments with an expired card.

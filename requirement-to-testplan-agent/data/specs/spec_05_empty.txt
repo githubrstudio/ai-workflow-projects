@@ -1,0 +1,2 @@
+Synthetic spec: Draft notes (invented for demonstration)
+We will figure out the requirements after the kickoff meeting.

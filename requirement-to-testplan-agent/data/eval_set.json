@@ -1,0 +1,45 @@
+[
+ {
+  "spec": "spec_01_login.txt",
+  "n_reqs": 3,
+  "gaps": [
+   "REQ-003"
+  ],
+  "route": "human_review"
+ },
+ {
+  "spec": "spec_02_transfer.txt",
+  "n_reqs": 3,
+  "gaps": [],
+  "route": "auto_approve"
+ },
+ {
+  "spec": "spec_03_report.txt",
+  "n_reqs": 4,
+  "gaps": [
+   "REQ-002",
+   "REQ-004"
+  ],
+  "route": "human_review"
+ },
+ {
+  "spec": "spec_04_clean.txt",
+  "n_reqs": 2,
+  "gaps": [],
+  "route": "auto_approve"
+ },
+ {
+  "spec": "spec_05_empty.txt",
+  "n_reqs": 0,
+  "gaps": [],
+  "route": "human_review"
+ },
+ {
+  "spec": "spec_06_vague_number.txt",
+  "n_reqs": 2,
+  "gaps": [
+   "REQ-001"
+  ],
+  "route": "human_review"
+ }
+]
