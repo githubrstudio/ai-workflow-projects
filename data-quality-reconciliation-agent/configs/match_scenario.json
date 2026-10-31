@@ -1,0 +1,15 @@
+{
+  "name": "accounts_match_demo",
+  "source_file": "../data/match_scenario/source_accounts.csv",
+  "target_file": "../data/match_scenario/reporting_accounts.csv",
+  "keys": [{"source": "account_id", "target": "acct_id"}],
+  "key_case_insensitive": true,
+  "profile_tolerance_pct": 0.0,
+  "columns": [
+    {"name": "customer_name", "source": "customer_name", "target": "cust_name", "type": "string"},
+    {"name": "balance", "source": "balance", "target": "current_balance", "type": "numeric", "tolerance": 0.01},
+    {"name": "open_date", "source": "open_date", "target": "opened_on", "type": "date"},
+    {"name": "status", "source": "status", "target": "acct_status", "type": "string"},
+    {"name": "branch", "source": "branch", "target": "branch_code", "type": "string"}
+  ]
+}
